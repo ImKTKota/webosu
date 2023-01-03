@@ -1,5 +1,7 @@
 # ¡nso
 
+\\ NOT MY PROJECT! THIS IS JUST FOR TAMPERING WITH THE UI FOR MY OWN PERSONAL ENJOYMENT
+
 A browser rhythm game where players click circles following rhythm of the music.
 
 Powered by [PixiJS](https://www.pixijs.com). Beatmap source: [Sayobot](https://osu.sayobot.cn).
