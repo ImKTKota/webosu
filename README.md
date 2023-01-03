@@ -1,6 +1,6 @@
 # ¡nso
 
-\\ NOT MY PROJECT! THIS IS JUST FOR TAMPERING WITH THE UI FOR MY OWN PERSONAL ENJOYMENT
+\\ NOT MY PROJECT! THIS IS JUST FOR TAMPERING WITH THE UI FOR MY OWN PERSONAL ENJOYMENT\\
 
 A browser rhythm game where players click circles following rhythm of the music.
 
